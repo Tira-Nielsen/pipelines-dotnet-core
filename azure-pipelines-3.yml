@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Test pool
+  name: DESKTOP-U9CV1VF
   vmImage: ubuntu-latest
 
 steps:
